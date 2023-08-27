@@ -1,6 +1,6 @@
 
 
-## App Deployed Link--   https://64eaf3b317d1f33790f0df34--beamish-bonbon-634afa.netlify.app/
+## App Deployed Link--   https://64eb25ba17d1f34f3ff0df8e--nimble-starlight-fd6979.netlify.app/
 ### `Laptop View`
 ![Laptop](https://github.com/preetuuppp/Task/assets/112836053/2112684d-47b3-4f30-bcdf-40fae4dc9c50)
 
